@@ -134,6 +134,10 @@ main {
     height: auto;       
 }
 
+.cor{
+    font-size: 16px;
+}
+
 /* PARTE DO CARROSEL */
 :root {
     --altura-carrossel: 190px; /* Altura do carrossel */
